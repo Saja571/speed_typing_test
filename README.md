@@ -19,7 +19,7 @@ This is a simple web-based speed typing test application built using HTML, CSS, 
 
 ## Demo
 
-You can try out the live demo of the Speed Typing Test [here](<insert-link-to-live-demo>).
+You can try out the live demo of the Speed Typing Test [here](https://grapphic.github.io/speed_typing_test/).
 
 ## Installation
 
